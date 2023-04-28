@@ -99,7 +99,7 @@ class Program
    }
     static void EditTrainer(){
        Console.WriteLine("Enter the trainer ID to edit:");
-       int trainerId = int.Parse(Console.ReadLine());
+       string trainerId = Console.ReadLine();
 
        List<string> lines = new List<string>();
        using (StreamReader sr = new StreamReader("trainers.txt"))
@@ -107,7 +107,7 @@ class Program
            string line;
            while ((line = sr.ReadLine()) != null){
                string[] parts = line.Split('#');
-               if (int.Parse(parts[0]) == trainerId){
+               if (parts[0] == trainerId){
                    Console.WriteLine($"Trainer: {parts[1]}");
                    Console.WriteLine($"Trainer Mailing Address: {parts[2]}");
                    Console.WriteLine($"Trainer Email Address: {parts[3]}");
