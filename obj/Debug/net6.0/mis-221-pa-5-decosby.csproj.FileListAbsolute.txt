@@ -1,0 +1,15 @@
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\bin\Debug\net6.0\mis-221-pa-5-decosby.exe
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\bin\Debug\net6.0\mis-221-pa-5-decosby.deps.json
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\bin\Debug\net6.0\mis-221-pa-5-decosby.runtimeconfig.json
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\bin\Debug\net6.0\mis-221-pa-5-decosby.dll
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\bin\Debug\net6.0\mis-221-pa-5-decosby.pdb
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.csproj.AssemblyReference.cache
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.AssemblyInfoInputs.cache
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.AssemblyInfo.cs
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.csproj.CoreCompileInputs.cache
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.dll
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\refint\mis-221-pa-5-decosby.dll
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.pdb
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\mis-221-pa-5-decosby.genruntimeconfig.cache
+C:\Users\sauce\OneDrive\Desktop\mis221\mis-221-pa-5-decosby\obj\Debug\net6.0\ref\mis-221-pa-5-decosby.dll
