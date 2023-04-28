@@ -1,4 +1,5 @@
-﻿using System;
+﻿//I started on PA5 after the design docs was due. It is submitted with the git link in Teams.
+using System;
 using System.IO;
 
 class Program
@@ -439,13 +440,13 @@ class Program
 
             switch (choice){
                 case "1":
-                    GenerateIndividualCustomerSessionsReport();
+                    IndividualCustomerSessionsReport();
                     break;
                 case "2":
-                    GenerateHistoricalCustomerSessionsReport();
+                    HistoricalCustomerSessionsReport();
                     break;
                 case "3":
-                    GenerateHistoricalRevenueReport();
+                    HistoricalRevenueReport();
                     break;
                 case "4":
                     return;
@@ -458,7 +459,7 @@ class Program
         }
     }
 
-    static void GenerateIndividualCustomerSessionsReport(){
+    static void IndividualCustomerSessionsReport(){
         Console.WriteLine("Enter customer email:");
         string email = Console.ReadLine();
 
@@ -488,7 +489,7 @@ class Program
             SaveReportToFile(sessions);
         }
 
-        static void GenerateHistoricalCustomerSessionsReport()
+        static void HistoricalCustomerSessionsReport()
         {
             var sessions = File.ReadAllLines("transactions.txt")
                 .Select(line => line.Split(','))
@@ -535,7 +536,7 @@ class Program
             SaveReportToFile(sessions);
         }
 
-        static void GenerateHistoricalRevenueReport()
+        static void HistoricalRevenueReport()
         {
             var sessions = File.ReadAllLines("transactions.txt")
                 .Select(line => line.Split(','))
